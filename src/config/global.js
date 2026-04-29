@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
+    Name: 'Nombre del recurso ',
     Description: 'Descripción del RED',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),

@@ -1,1 +1,1 @@
-module.exports = 'Fundamentos del SARLAFT'
+module.exports = ''
